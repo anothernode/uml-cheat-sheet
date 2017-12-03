@@ -1,3 +1,0 @@
-# uml-cheat-sheet
-
-foo
