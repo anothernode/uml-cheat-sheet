@@ -1,6 +1,6 @@
 ---
 title: UML Cheat Sheet
-layout: post
+layout: default
 ---
 
 # Foo
